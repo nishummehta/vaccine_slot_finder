@@ -48,3 +48,7 @@ https://docs.aws.amazon.com/ses/latest/DeveloperGuide/send-using-sdk-python.html
 
 **API Setu page where you can the cowin APIs**
 https://apisetu.gov.in/public/api/cowin
+
+
+Feel free to contact me if you found this code to be non working or you encounter any bug.
+Email id: nishummehta1997@gmail.com
